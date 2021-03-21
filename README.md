@@ -1,3 +1,11 @@
+# Tugas 2
+Nama : Nabilla
+NPM : 1184075
+Kelas : D4 Teknik Informatika 3A
+Mata Kuliah : Sistem Pakar
+Dosen Pengampu : M. Nurkamal Fauzan, S.T., M.T
+
+
 # jalur-peta-jateng
 Sistem Pencarian BFS dan DFS pada peta Jawa Tengah dengan Python
 
